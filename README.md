@@ -35,7 +35,8 @@ Admins can update information such as title, author, genre, price, quantity, etc
 ![image](https://github.com/phamkhoa1373/Bookly/assets/145279232/4dfcd319-0431-4983-8bbc-7c897e659f55)
 ![image](https://github.com/phamkhoa1373/Bookly/assets/145279232/3c14c966-3f90-4a8b-b7de-a379ade2a705)
 ![image](https://github.com/phamkhoa1373/Bookly/assets/145279232/e21013a9-d40f-42d4-aad5-3ce57d250bc0)
-![Uploading image.png…]()
+![image](https://github.com/phamkhoa1373/Bookly/assets/145279232/d88840b1-63f1-4bc9-9f34-393094b05d21)
+
 
 
 
